@@ -1,0 +1,27 @@
+Car Grep Wants to Help Canada One Vehicle at a Time
+
+Buying the right car is exhausting. It can take hours to find the vehicle you want if it matches your preferences and if it is at an accessible dealership.
+
+But it does not have to be tiring.
+
+Dalhousie students Huy Huygh (BACS) and Eduard Kakosyan (BCS) and Mount Saint Vincent University Business student Mikayla Greening had an idea: what if you could look at car dealerships, vehicle history, and vehicle ratings in just one app?
+
+So they created Car Grep, which does just that.
+
+CarGrep is powered by AI and complies with a list of vehicles from sites like AutoTrader and Facebook to help find consumers the perfect car for their needs. To further ensure that the consumer is getting the best car, CarGrep also provides common car issues.
+
+Supported by ShiftKey’s Build Program, which provides student entrepreneurs with funding, meetings with other entrepreneurs and the ShiftKey team, and access to two pitch competitions, Huygh, Kakosyan, and Greening are creating an accessible app for everyone.
+
+Before joining the ShiftKey Build program, the team attended multiple ShiftKey events, and almost immediately felt like ShiftKey Build was perfect for CarGrep. ”Since joining [ShiftKey Build], we’ve had the opportunity to grow our business, refine our skills, and gain valuable insights that have made our journey even more enriching,” the team says. “We are incredibly grateful for the mentorship and experience this program has provided.”
+
+The team’s yearn for innovation has not gone unnoticed by the ShiftKey team. “Having a team like CarGrep involved in ShiftKey Build is so rewarding because they have the skills and motivation to take their product all the way,” says ShiftKey Manager Emily Fenton. “It is inspiring to see students dedicate so much time and passion to these projects, and we’re lucky to be able to support them.”
+
+To develop CarGrep, Huygh, Kakosyan, and Greening use the Lean Startup Methodology: a system that “provides a scientific approach to creating and managing startups and get a desired product to customers’ hands faster,” according to the company’s website. By using Lean Startup, the team is creating a Minimal Viable Product (MVP) to use with the app’s users while researching how to make their app successful.
+
+Developing CarGrep takes the team across the Maritimes, which is not only a highlight for Huygh, Kakosyan, and Greening but also crucial to network and get feedback. Recently, the team took part in the Impact X Summit at St. Francis Xavier University in November 2024. The Impact X Summit is a tech conference tailored toward Atlantic Canada’s youth to help them build their tech startups.
+
+During the Summit’s workshops, high school and post-secondary engage in talks from entrepreneurs across the region. “It was an incredible opportunity to present our vision in front of industry leaders and peers, which pushed us to refine our ideas and approach,” the team says. “The feedback and insights we gained were invaluable, and it sparked a series of changes and improvements in our project.”
+
+They hope CarGrep can be an integral part of Canadian life, expanding the app’s features and making it accessible for everyone, especially first-time buyers and Newcomers to Canada who may feel overwhelmed with options. “We believe that CarGrep can truly make a difference by providing guidance and support to those who need it most” the team explains. “And we are committed to creating lasting impact.”
+
+You can join the app’s features and help with beta testing here: https://www.cargrep.com/
