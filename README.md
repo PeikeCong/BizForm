@@ -1,6 +1,11 @@
 # BizFormulate
 BizFormulate is a Streamlit-based AI assistant that transforms unstructured business notes into structured strategic insights. It supports multiple frameworks like Business Model Canvas, SWOT, and Porter’s Five Forces. Users can upload text or documents, receive AI-generated analysis via LLaMA 3.1, and provide feedback for future improvement. Past sessions and insights are stored in a local SQLite database for review and download.
 
+## 📺 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/nNZafFBTywY/hqdefault.jpg)](https://youtu.be/nNZafFBTywY)
+
+
 ## Features
 
 - Upload text, PDF, or Word files for processing
